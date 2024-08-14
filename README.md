@@ -1,6 +1,6 @@
 - 👋 @LilNick0101
-- 👀 Currently studying Computer science @ UniPD.
-- 🌱 learning C++, Java and python.
+- 👀 Currently studying for the Master degree in Computer science @ UniPD.
+- 🌱 Overall just your average nerd that likes fitness and video games
 
 <!---
 LilNick0101/LilNick0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
