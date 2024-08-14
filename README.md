@@ -1,5 +1,5 @@
-- 👋 @LilNick0101
-- 👀 Currently studying for the Master degree in Computer science @ UniPD.
+- 👋 Hi I'm @LilNick0101
+- 👀 Currently studying for the Master degree in Computer science @ UniPD with major in _Internet, mobile and security_.
 - 🌱 Overall just your average nerd that likes fitness and video games
 
 <!---
