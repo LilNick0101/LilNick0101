@@ -1,6 +1,6 @@
 - 👋 Hi I'm @LilNick0101
 - :closed_book: Currently studying for the Master degree in Computer science @ UniPD with major in _Internet, mobile and security_
-- :alien: Overall just your average nerd that likes exercising and playing (and making :smirk:) video games
+- :alien: Overall just your average nerd that likes exercising and playing (and making 🤓) video games
 - Languages:
   - Most used:
     - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=40 width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=40 width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height=40 width=40/>
