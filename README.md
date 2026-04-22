@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Nicola from Italy <br><br>- 📚 I did my Bachelor's degree in Computer Science at University of Padua, then I've continued doing my Master's degree in Computer Science, specializing in Internet, Mobile and Security<br>- 🏁 I also compete in Capture the Flag, solving mostly binary exploitation and reverse engineering challenges<br>- ⚡ In my free time I like playing video games</p>
+<p align="left">I'm Nicola from Italy <br><br>- 📚 I did my Bachelor's degree in Computer Science at University of Padua, then I've continued doing my Master's degree in Computer Science, specializing in Internet, Mobile and Security<br>- 🏁 I also compete in Capture the Flag competitions, solving mostly binary exploitation and reverse engineering challenges<br>- ⚡ In my free time I like playing video games</p>
 
 ###
 
